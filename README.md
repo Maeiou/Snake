@@ -15,8 +15,7 @@ JS贪吃蛇游戏
 
 #### 游戏图片
 
-![开始游戏](https://gitee.com/maeiou/snake/blob/master/images/kaishi.png)
-![游戏中](https://gitee.com/maeiou/snake/blob/master/images/game.png)
+
 
 #### 参与贡献
 

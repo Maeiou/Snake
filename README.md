@@ -1,20 +1,19 @@
 # Snake
 
 #### 介绍
-JS贪吃蛇游戏
+原生JS贪吃蛇游戏
 
-#### 软件架构
-软件架构说明
+
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
+ 直接下载就能玩
 
 
 #### 游戏图片
-
+![游戏开始](https://raw.githubusercontent.com/Maeiou/Snake/master/images/kaishi.png)
+![游戏中](https://raw.githubusercontent.com/Maeiou/Snake/master/images/game.png)
 
 
 #### 参与贡献
